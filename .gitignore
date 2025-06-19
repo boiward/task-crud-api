@@ -1,12 +1,12 @@
-# Archivos de Go
+# Go
 bin/
 *.exe
-*.test
 *.out
+*.test
 
-# Archivos temporales y del sistema
+# Archivos del sistema y editores
 .DS_Store
 *.log
-*.env
+.env
 .idea/
 .vscode/
