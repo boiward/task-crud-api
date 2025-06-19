@@ -1,0 +1,12 @@
+# Archivos de Go
+bin/
+*.exe
+*.test
+*.out
+
+# Archivos temporales y del sistema
+.DS_Store
+*.log
+*.env
+.idea/
+.vscode/
